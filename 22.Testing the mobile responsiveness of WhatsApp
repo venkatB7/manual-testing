@@ -1,0 +1,10 @@
+1. Accessing WhatsApp on a mobile device with a small screen size (e.g. less than 4 inches) and ensuring that all features and functionalities are accessible without any horizontal scrolling needed.
+2. Testing the app's ability to adjust to different screen orientations (portrait and landscape mode) seamlessly.
+3. Ensuring that all text, images, and icons on the mobile version of WhatsApp are properly sized for easy reading and interaction.
+4. Testing the app's ability to load quickly and display content without delay, particularly when using slower internet connections.
+5. Verifying that all menus, icons, and buttons are easily touchable and accurately responsive to touch gestures.
+6. Verifying that the app's layout adjusts appropriately to different screen resolutions, such as on tablets with larger screens.
+7. Testing the app's ability to resize images and videos when they are shared through the chat feature to ensure that they do not appear distorted or unreadable.
+8. Checking the app's notification function, such as ensuring that alerts are properly displayed on the screen and that notifications can be accessed easily in the notification drawer.
+9. Ensuring that the app's user interface (UI) features are accessible for disabled users, such as by testing the use of assistive technologies like Talkback.
+10. Checking the app's ability to handle interruptions such as incoming calls or messages without losing the user's chats or interfering with the user's tasks.

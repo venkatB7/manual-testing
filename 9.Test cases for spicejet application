@@ -1,0 +1,19 @@
+Test Case 1: Verify that the user can successfully search for and book a flight
+Input: User navigates to the SpiceJet website, enters their destination and travel dates, and searches for available flights
+Expected Output: The user is presented with a list of available flights that match their search criteria. The user can then select a flight and complete the booking process.
+
+Test Case 2: Verify that the user can view and manage their booking
+Input: User navigates to the SpiceJet website, logs into their account, and accesses their booking
+Expected Output: The user is able to view details of their booking, including flight itinerary, booking reference number, and any additional services they have added. The user can also modify or cancel their booking if necessary.
+
+Test Case 3: Verify that the user can access customer support
+Input: User navigates to the SpiceJet website and clicks on the "Contact Us" link
+Expected Output: The user is presented with contact information for customer support, including phone numbers, email addresses, and a chat option. The user can choose the method that works best for them to get support.
+
+Test Case 4: Verify that the user can access and use the mobile app
+Input: User downloads and launches the SpiceJet mobile app on their iOS or Android device
+Expected Output: The user is presented with a user-friendly interface that allows them to search for and book flights, as well as manage their bookings. The app should be responsive, quick, and easy to navigate.
+
+Test Case 5: Verify that the payment process is secure
+Input: User enters payment information during the booking process
+Expected Output: The payment process should be secure and the user's payment information should be encrypted. The user should receive a confirmation of payment once the transaction is complete. If there are any issues with the payment process, the user should be alerted and given a clear explanation of what went wrong.

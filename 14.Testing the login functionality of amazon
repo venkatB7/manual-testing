@@ -1,0 +1,28 @@
+
+1. Test the login functionality by entering valid credentials: 
+- Go to the Amazon login page and enter valid credentials (correct email and password).
+- Click on the "Sign in" button and verify that the user is logged in successfully.
+- Check if the correct account information is displayed on the page after login, such as the user's name, orders, and account balance.
+
+2. Test the login functionality by entering invalid credentials:
+- Go to the Amazon login page and enter invalid credentials (incorrect email or password).
+- Click on the "Sign in" button and verify that an error message stating the incorrect login details are displayed.
+- Verify that the user is not logged in and remains on the login page.
+
+3. Test the functionality of the password reset feature:
+- Click on the "Forgot your password?" link below the login form.
+- Enter the email address associated with the account and click on the "Continue" button.
+- Check that an email with instructions has been sent to the registered email address.
+- Follow the instructions to reset the password.
+- Log in with the new password, and verify that the user is redirected to the correct page.
+
+4. Test the logout functionality:
+- Click on the account option to open the drop-down menu displaying the account information.
+- Click on the "Sign Out" button, and verify that the user is logged out successfully.
+- Check that the user is redirected to the login page after logging out.
+
+5. Test the remembered login functionality:
+- Go to the login page and check the "Remember me" checkbox before clicking on the " Sign in" button.
+- Verify that the user is not required to enter login credentials on the next login attempt.
+- Clear the browser cache and cookies and try to log in again.
+- Check that the login details are not associated with the previous login attempt.

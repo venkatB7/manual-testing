@@ -1,0 +1,24 @@
+1. Send and receive message on WhatsApp in offline mode
+- Scenario: Turn off internet connection and try to send a message, turn on internet connection and check if the message was successfully delivered to the recipient.
+
+2. Pinning a chat
+- Scenario: Pin a chat on top of the chat list screen and verify if the pinned chat is always displayed at the top of the screen, even if new messages are received from other chats.
+
+3. Customized chat backgrounds
+- Scenario: Set a custom chat background and verify if it is successfully applied and visible to the recipient.
+
+4. Mentioning someone in a group chat
+- Scenario: Type @ followed by a person's name in a group chat and verify if it generates a notification for the selected person.
+
+5. Group call feature
+- Scenario: Start a group call with multiple contacts and verify if all participants are successfully connected and can communicate with each other.
+
+6. Status sharing
+- Scenario: Share a status update with a photo or video and verify if it is successfully uploaded and visible to friends.
+
+7. Animated sticker support
+- Scenario: Send an animated sticker to a contact and verify if it appears animated and smoothly in the chat thread.
+
+8. Editing sent messages
+- Scenario: Edit a previously sent message and verify if the edited message is correctly displayed and understood by the recipient.
+

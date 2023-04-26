@@ -1,0 +1,39 @@
+Bug Report: WhatsApp Application
+
+Issue: Profile picture not updated
+
+Severity: Medium
+
+Description: The user's profile picture is not updated in the WhatsApp application. When attempting to update the profile picture, the app displays a success message but the new picture is not reflected in the user's profile.
+
+Steps to Reproduce:
+
+Open WhatsApp application.
+Navigate to the user's profile.
+Click on the edit button next to the profile picture.
+Select a new picture and click on the save button.
+The app displays a success message, but the new picture is not reflected in the user's profile.
+Expected Result: The new profile picture should be updated and reflected in the user's profile.
+
+Actual Result: The app displays a success message, but the new picture is not reflected in the user's profile.
+
+Additional Information:
+
+This issue occurs with all profile pictures, regardless of the source or file type.
+The issue is not present when updating other profile information, such as the user's name or status.
+Other users are able to see the user's old profile picture, indicating that the issue is not with the display or caching on their end.
+This issue is affecting both Android and iOS versions of the WhatsApp application.
+Workaround: There is currently no known workaround for this issue.
+
+Impact: This issue is impacting the user's ability to update and maintain their profile information. While not a critical issue, it is causing frustration and inconvenience.
+
+Reproducibility: The issue is reproducible on multiple devices and across different network connections.
+
+Environment:
+
+WhatsApp version: Latest version on both Android and iOS
+Device: Various Android and iOS devices
+Operating System: Android 11 and iOS 14.5.1
+Attachments: Screenshots of the profile picture update process and the user's profile page.
+
+Recommendation: The WhatsApp development team should investigate and resolve this issue as soon as possible to prevent further impact on users' ability to update their profile information.

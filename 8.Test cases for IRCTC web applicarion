@@ -1,0 +1,19 @@
+Registration: Verify the successful registration of a new user account by checking if the user is able to log in with the registered credentials.
+
+Login: Check the login functionality by attempting to log in with valid and invalid credentials.
+
+Search functionality: Verify the search functionality by searching for trains between two stations and confirming if the results are accurate and up to date.
+
+Ticket booking: Test the ticket booking feature by creating and booking a single or multiple tickets. Check if the payment process is secure and all necessary details are provided on the ticket.
+
+Refund policy: Test the refund policy by initiating a refund process for a ticket that is cancelled within the stipulated time frame. Check if the refund is processed as per the stated guidelines.
+
+Logout: Test the logout functionality by ensuring that the user is successfully logged out of the account.
+
+Connectivity: Test the application's connectivity by checking if it is accessible from different browsers and devices, and if there are any connection errors or timeouts.
+
+Security: Test the security features of the application by attempting to hack into the system or by testing different security vulnerabilities to check the application's response to risk.
+
+Password reset: Test the password reset functionality by attempting to reset the password for the account and ensuring that the user can log back in with the new password.
+
+User Interface: Test the user interface by checking if all elements of the application are functional and user-friendly.

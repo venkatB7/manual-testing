@@ -1,0 +1,57 @@
+1.Test Case: Successful Booking
+
+Precondition: User is logged in and has entered valid travel details.
+
+Steps:
+Select the bus and seat of choice.
+Enter passenger details.
+Make payment using a valid payment method.
+Verify that the booking is successful.
+
+Expected Result: The booking should be successful and a confirmation message should be displayed.
+
+2.Test Case: Invalid Travel Details
+
+Precondition: User is logged in.
+
+Steps:
+Enter invalid travel details such as incorrect date or destination.
+Click on search button.
+Verify that the error message is displayed.
+
+Expected Result: The search should not be successful and an error message should be displayed.
+
+3.Test Case: Seat Selection
+
+Precondition: User is logged in and has entered valid travel details.
+
+Steps:
+Select the bus and verify that the available seats are displayed.
+Select a seat which is available.
+Verify that the selected seat is highlighted and the seat number is displayed.
+
+Expected Result: The selected seat should be highlighted and the seat number should be displayed.
+
+4.Test Case: Payment Failure
+
+Precondition: User is logged in and has entered valid travel details.
+
+Steps:
+Select the bus and seat of choice.
+Enter passenger details.
+Make payment using an invalid payment method.
+Verify that the payment fails.
+
+Expected Result: The payment should fail and an error message should be displayed.
+
+5.Test Case: Cancellation of Booking
+
+Precondition: User is logged in and has a valid booking.
+
+Steps:
+Navigate to the booking section.
+Select the booking to be cancelled.
+Click on the cancel button.
+Verify that the cancellation is successful and the refund is initiated.
+
+Expected Result: The cancellation should be successful and the refund should be initiated.

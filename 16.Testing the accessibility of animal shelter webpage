@@ -1,0 +1,13 @@
+
+
+1. Use a screen reader: A screen reader is a software program that reads the contents of a webpage out loud to the user. By using a screen reader, you can verify that all the content on the webpage can be accessed and read by users with visual disabilities.
+
+2. Check for keyboard accessibility: Users with mobility disabilities often rely on keyboard navigation to access websites. Check if all the functionality on the webpage can be accessed using the keyboard alone.
+
+3. Verify alternative text for images: Images on the webpage should have alternative text that describes the content of the image. This will help users with visual disabilities understand the context of the image.
+
+4. Test for color contrast: Ensure that the colors used on the webpage provide enough contrast to be readable by users with color vision deficiencies.
+
+5. Check for the use of ARIA roles: ARIA roles can provide additional information to assistive technologies about the elements on the webpage. Verify if ARIA roles have been used correctly.
+
+6. Conduct user testing: The ultimate test of accessibility is to ask users with disabilities to use the website and provide feedback on their experience. Use this feedback to make further improvements to the website.

@@ -1,0 +1,38 @@
+Bug Report: WhatsApp Application
+
+Issue: Unable to send messages
+
+Severity: High
+
+Description: Users are unable to send messages in the WhatsApp application. When attempting to send a message, the app displays an error message stating that the message could not be sent. However, the message does not contain any prohibited content or violate any of the app's policies.
+
+Steps to Reproduce:
+
+Open WhatsApp application.
+Navigate to a chat.
+Type a message and click on the send button.
+The app displays an error message stating that the message could not be sent.
+Expected Result: The message should be sent successfully to the recipient.
+
+Actual Result: The app displays an error message and the message cannot be sent.
+
+Additional Information:
+
+This issue occurs with all messages, regardless of the recipient or message content.
+The issue is not present when sending messages through other messaging apps.
+Other types of files, such as images and documents, can be sent successfully.
+This issue is affecting both Android and iOS versions of the WhatsApp application.
+Workaround: There is currently no known workaround for this issue.
+
+Impact: This issue is impacting users' ability to effectively communicate and share information through the app. It is a critical issue and requires immediate attention.
+
+Reproducibility: The issue is reproducible on multiple devices and across different network connections.
+
+Environment:
+
+WhatsApp version: Latest version on both Android and iOS
+Device: Various Android and iOS devices
+Operating System: Android 11 and iOS 14.5.1
+Attachments: Screenshots of error message and message details.
+
+Recommendation: The WhatsApp development team should investigate and resolve this issue as soon as possible to prevent further impact on users' ability to communicate effectively.

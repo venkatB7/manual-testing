@@ -1,0 +1,13 @@
+1. Signing up for an account: Test the ease of creating an account on Amazon.com by including scenarios such as creating an account with a social media login, a new account sign-up process, and account verification.
+
+2. Browsing products: Evaluate how easily users can navigate through Amazon.com’s product catalogs by testing different product search functionality, refining and categorizing options, and visual product display.
+
+3. Adding products to the cart: Test how effectively users can add items to the cart and the shopping process, including A/B testing different paths for adding products and verifying that the order total is shown accurately.
+
+4. Checkout and payment process: Test the ease of use of the checkout process by incorporating scenarios for both typical and complex orders, credit card processing, promotions, and shipping calculations.
+
+5. User account management: Test the usability of the account settings page, including the ability to manage order history, shipping addresses, payment methods, and account preferences.
+
+6. Customer service functionality: Test Amazon.com’s customer service features, including the ability to track orders, contact customer service, and return items.
+
+7. Mobile responsiveness: Test Amazon.com’s mobile responsiveness by assessing the experience across various devices and operating systems, including browsing, search functionality, and checkout process.

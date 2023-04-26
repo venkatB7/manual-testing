@@ -1,0 +1,24 @@
+1. Integration with Payment Gateways:
+- Verify that payments made through the app are being processed through the designated payment gateway.
+- Check that payment gateway is secure and sensitive data is being protected.
+- Validate that payment gateway status updates are reflected on the app.
+
+2. Integration with Social Media Platforms:
+- Ensure that the app integrates with social media platforms like Facebook, Instagram, and Twitter.
+- Verify that users are able to share content (images, videos, audio) from the app to social media platforms.
+- Confirm that messages sent through the integration are being delivered correctly and in a timely manner.
+
+3. Integration with Email Clients:
+- Verify that users are able to share content (images, videos, audio) from the app through email.
+- Check that messages sent through the integration are being delivered correctly and in a timely manner.
+- Confirm that attachments sent through the integration are being received and shared correctly.
+
+4. Integration with Location Services:
+- Verify that users are able to share and receive location information through the app.
+- Check that location information is accurate and updated in real-time.
+- Validate that users can view location information on a map within the app.
+
+5. Integration with Cloud Storage Services:
+- Ensure that users are able to back up their chats to a designated cloud storage service.
+- Verify that chat backups are being stored securely and that users are able to restore their chats from the backup.
+- Confirm that media files (images, videos, audio) sent and received through the app are being backed up to the designated cloud storage service.

@@ -1,0 +1,53 @@
+1. Scenario: Login to Amazon website
+Given: User is on Amazon website homepage
+When: User clicks on the "Sign in" button
+And: User enters valid login credentials
+Then: User should be successfully logged in to Amazon website
+
+2. Scenario: Search for a product on Amazon website
+Given: User is logged in to Amazon website
+When: User types in the product name in the search bar
+Then: User should be presented with a list of possible products that match the search keyword
+And: The product description should contain relevant details such as product image, price, ratings, etc.
+
+3. Scenario: Add a product to the cart
+Given: User is on the product page
+When: User clicks on the "Add to Cart" button
+Then: The product should be added to the cart
+And: The cart quantity count should increase by one
+
+4. Scenario: View the cart on Amazon website
+Given: User has added items to the cart
+When: User clicks on the "Cart" icon
+Then: User should be directed to the cart page
+And: The cart should contain all the items that were previously added
+
+5. Scenario: Proceed to checkout on Amazon website
+Given: User is on the cart page
+When: User clicks on the "Proceed to Checkout" button
+Then: User should be directed to the checkout page
+And: The checkout page should contain all the necessary fields to proceed to payment
+
+6. Scenario: Add a new address on Amazon website
+Given: User is on the checkout page
+When: User clicks on the "Add a new address" button
+Then: User should be directed to the address adding page
+And: The page should contain all the necessary fields to add a new address
+
+7. Scenario: Select a payment method on Amazon website
+Given: User is on the checkout page
+When: User clicks on the "Select a payment method" button
+Then: User should be directed to the payment options page
+And: The page should contain all the necessary fields to make the payment
+
+8. Scenario: Place an order on Amazon website
+Given: User has selected a payment method
+When: User clicks on the "Place your order" button
+Then: The order should be successfully placed
+And: User should receive an order confirmation
+
+9. Scenario: Cancel an order on Amazon website
+Given: User has placed an order
+When: User clicks on the "Cancel order" button
+Then: The order should be canceled
+And: User should receive a cancellation confirmation.

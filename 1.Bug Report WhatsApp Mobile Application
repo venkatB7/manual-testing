@@ -1,0 +1,38 @@
+Bug Report: WhatsApp Mobile Application
+
+Issue: Unable to send video files in group chats
+
+Severity: High
+
+Description: Users are unable to send video files to group chats in the WhatsApp mobile application. When attempting to send a video file, the app displays an error message stating that the video could not be sent, and suggests checking the file format and size. However, the video file is within the acceptable size and format limits.
+
+Steps to Reproduce:
+
+Open WhatsApp mobile application.
+Navigate to a group chat.
+Tap the attachment icon and select the video file to send.
+The app displays an error message stating that the video could not be sent.
+Expected Result: The video file should be sent successfully to the group chat.
+
+Actual Result: The app displays an error message and the video file cannot be sent.
+
+Additional Information:
+
+This issue occurs with all video files, regardless of format or size.
+The issue is not present when sending video files to individual chats.
+Other types of files, such as images and documents, can be sent successfully to group chats.
+This issue is affecting both Android and iOS versions of the WhatsApp mobile application.
+Workaround: There is currently no known workaround for this issue.
+
+Impact: This issue is impacting users' ability to effectively communicate and share information in group chats. It is a critical issue and requires immediate attention.
+
+Reproducibility: The issue is reproducible on multiple devices and across different network connections.
+
+Environment:
+
+WhatsApp version: Latest version on both Android and iOS
+Device: Various Android and iOS devices
+Operating System: Android 11 and iOS 14.5.1
+Attachments: Screenshots of error message and video file details.
+
+Recommendation: The WhatsApp development team should investigate and resolve this issue as soon as possible to prevent further impact on users' ability to communicate effectively.

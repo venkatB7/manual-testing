@@ -1,0 +1,5 @@
+1. Submitting a form without filling any mandatory fields.
+2. Uploading a file format that is not supported by the application.
+3. Entering an invalid email address format.
+4. Attempting to log in with an incorrect username or password.
+5. Adding an item to the cart that is out of stock.

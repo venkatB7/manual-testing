@@ -1,0 +1,38 @@
+Bug Report: Amazon Website
+
+Issue: Unable to add electronic items to cart
+
+Severity: High
+
+Description: Users are unable to add electronic items to the cart on the Amazon website. When attempting to add an electronic item, the site displays an error message stating that the item cannot be added to the cart. However, the item does not contain any prohibited content or violate any of the site's policies.
+
+Steps to Reproduce:
+
+Open Amazon website.
+Navigate to an electronic item, such as a laptop or a mobile phone.
+Click on the "Add to Cart" button.
+The site displays an error message stating that the item cannot be added to the cart.
+Expected Result: The electronic item should be added to the cart successfully.
+
+Actual Result: The site displays an error message and the item cannot be added to the cart.
+
+Additional Information:
+
+This issue occurs with all electronic items, regardless of the brand or model.
+The issue is not present when adding non-electronic items to the cart.
+Other online shopping websites are allowing users to add electronic items to their cart smoothly.
+This issue is affecting both desktop and mobile versions of the Amazon website.
+Workaround: There is currently no known workaround for this issue.
+
+Impact: This issue is impacting users' ability to purchase electronic items on the Amazon website. It is a critical issue and requires immediate attention.
+
+Reproducibility: The issue is reproducible on multiple devices and across different network connections.
+
+Environment:
+
+Amazon website version: Latest version on both desktop and mobile
+Device: Various desktop and mobile devices
+Operating System: Windows 10, iOS 14.5.1 and Android 11
+Attachments: Screenshots of error message and product details.
+
+Recommendation: The Amazon development team should investigate and resolve this issue as soon as possible to prevent further impact on users' ability to purchase electronic items smoothly.

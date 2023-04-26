@@ -1,0 +1,37 @@
+Bug Report: Login Page
+
+Issue: Submit button not working
+
+Severity: High
+
+Description: The submit button on the login page is not working. When attempting to login by clicking on the submit button, nothing happens. Users are unable to access their accounts due to this issue.
+
+Steps to Reproduce:
+
+Open the login page.
+Enter valid login credentials.
+Click on the submit button.
+Nothing happens.
+Expected Result: The login form should be submitted successfully and the user should be redirected to their account dashboard.
+
+Actual Result: The login form is not submitted and the user is not redirected to their account dashboard.
+
+Additional Information:
+
+The issue is affecting all users attempting to login.
+The issue is not present on any other pages of the website.
+Other buttons on the login page, such as the "forgot password" and "create account" buttons, are working correctly.
+Workaround: There is currently no known workaround for this issue.
+
+Impact: This issue is preventing users from accessing their accounts and is causing frustration and inconvenience. It is a critical issue and requires immediate attention.
+
+Reproducibility: The issue is reproducible on multiple devices and across different network connections.
+
+Environment:
+
+Website URL: Login page URL
+Browser: Google Chrome, Mozilla Firefox, Safari
+Operating System: Windows 10, MacOS, iOS, Android
+Attachments: Screenshots of the login page and error console logs.
+
+Recommendation: The website development team should investigate and resolve this issue as soon as possible to prevent further impact on users' ability to access their accounts.

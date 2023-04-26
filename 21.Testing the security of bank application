@@ -1,0 +1,10 @@
+1. Attempting to access the application without a valid username and password
+2. Conducting SQL injection attack by inserting malicious code into input fields
+3. Testing for cross-site scripting (XSS) attacks by injecting dangerous scripts into web pages
+4. Running a brute-force attack to crack weak passwords
+5. Manipulation of session tokens to bypass authentication
+6. Testing for directory traversal by attempting to access sensitive files on the server
+7. Denial of service (DoS) testing by overwhelming the server with excessive requests
+8. Testing for privilege escalation by attempting to gain access to higher-level accounts or information
+9. Checking for weak encryption methods by attempting to decipher encrypted data
+10. Testing for inadequate input validation and sanitization that could allow for injection of malicious code.
